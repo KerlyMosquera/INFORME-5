@@ -4,7 +4,7 @@
 - Aplicar el Teorema de Thévenin para comprobar las mediciones en la simulación y los cálculos obtenidos.
 #### OBJETIVO ESPECÍFICOS
 - Observar la efectividad y facilidad de uso del Teorema de Thévenin, aplicado en el análisis de un circuito mixto.
-- Determinar el valor de voltaje y corriente en el resistor R5.
+- Determinar el valor de voltaje y corriente en el resistor R5 aplicando el Teorema de Thévenin.
 ## 2. MARCO TEÓRICO
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 ### 3.1 MATERIALES Y EQUIPOS
