@@ -7,7 +7,7 @@
 - Determinar el valor de voltaje y corriente en el resistor R5 aplicando el Teorema de Thévenin.
 ## 2. MARCO TEÓRICO
 
-![TEOREMA DE THEVENIN (2)](https://user-images.githubusercontent.com/84431598/126918846-5a428b08-b540-4703-a407-5d9ca295999a.png)
+![TEOREMA DE THEVENIN (2)](https://user-images.githubusercontent.com/84431598/126919198-ea1a3107-9e38-434e-944a-069dd8bac6ca.png)
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 ### 3.1 MATERIALES Y EQUIPOS
