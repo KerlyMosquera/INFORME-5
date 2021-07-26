@@ -6,6 +6,9 @@
 - Observar la efectividad y facilidad de uso del Teorema de Thévenin, aplicado en el análisis de un circuito mixto.
 - Determinar el valor de voltaje y corriente en el resistor R5 aplicando el Teorema de Thévenin.
 ## 2. MARCO TEÓRICO
+
+![TEOREMA DE THEVENIN (2)](https://user-images.githubusercontent.com/84431598/126918846-5a428b08-b540-4703-a407-5d9ca295999a.png)
+
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 ### 3.1 MATERIALES Y EQUIPOS
 
