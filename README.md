@@ -60,7 +60,7 @@
 
 ![image](https://user-images.githubusercontent.com/84425276/127087794-6f20b0bb-621e-4436-99c2-7ae1d0033b5e.png)
 
-#### Tabla 3. 
+#### Tabla 3.
 
 ![image](https://user-images.githubusercontent.com/84425276/127087867-a4290d5c-dacf-43f3-9287-8d1db4403f3d.png)
 
