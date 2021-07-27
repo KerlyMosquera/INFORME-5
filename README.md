@@ -49,14 +49,34 @@
 
 #### Tabla 1. Valores del Circuito Equivalente de Thévenin
 
+![image](https://user-images.githubusercontent.com/84425276/127087662-e63cf413-0f96-47d2-9e6c-86b6134db753.png)
 
 #### Tabla 2. Comprobación del Teorema de Thévenin.
 
+![image](https://user-images.githubusercontent.com/84425276/127087762-6636c7b8-fbd1-4e99-996b-a3264aa014b1.png)
 
 ### 4.2 CÁLCULOS
 ### 4.3 CÁLCULO DEL ERROR
+
+![image](https://user-images.githubusercontent.com/84425276/127087794-6f20b0bb-621e-4436-99c2-7ae1d0033b5e.png)
+
+#### Tabla 3. 
+
+![image](https://user-images.githubusercontent.com/84425276/127087867-a4290d5c-dacf-43f3-9287-8d1db4403f3d.png)
+
+#### Tabla 4.
+
+![image](https://user-images.githubusercontent.com/84425276/127087912-14bf76a7-2c15-415c-9bdd-b055279c662b.png)
+
+#### Tabla 5.
+
+![image](https://user-images.githubusercontent.com/84425276/127087945-acf13415-f112-4fa2-acb7-ba04a4b5ab57.png)
+
 ## 5.VIDEO
 ## 6. CONCLUSIONES
+
+-
+
 ## 7.BIBLIOGRAFÍA
 -  Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
 -  Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed),* México DF, México: Cengage Learning.
