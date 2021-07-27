@@ -56,6 +56,10 @@
 ![image](https://user-images.githubusercontent.com/84425276/127087762-6636c7b8-fbd1-4e99-996b-a3264aa014b1.png)
 
 ### 4.2 CÁLCULOS
+
+![parte 1 (2)](https://user-images.githubusercontent.com/84431598/127090075-a3342f9c-475e-4ba7-ba78-af53aadc32e4.png)
+
+
 ### 4.3 CÁLCULO DEL ERROR
 
 ![image](https://user-images.githubusercontent.com/84425276/127087794-6f20b0bb-621e-4436-99c2-7ae1d0033b5e.png)
