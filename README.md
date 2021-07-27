@@ -61,7 +61,8 @@
 
 ![Parte 2 (2)](https://user-images.githubusercontent.com/84431598/127090394-52c8a474-5c14-4aa9-9f85-5dc4d94ccb05.png)
 
-![parte 3 (2)](https://user-images.githubusercontent.com/84431598/127090547-495b7fc0-417d-45d2-8d01-395aea920383.png)
+![parte 4 (2)](https://user-images.githubusercontent.com/84431598/127090656-4a8f26a7-2a21-4199-a1e7-f0d603e3f50d.png)
+
 
 
 ### 4.3 CÁLCULO DEL ERROR
