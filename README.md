@@ -92,6 +92,9 @@
 ![image](https://user-images.githubusercontent.com/84425276/127087945-acf13415-f112-4fa2-acb7-ba04a4b5ab57.png)
 
 ## 5.VIDEO
+
+https://youtu.be/C_ijTz0yvvI
+
 ## 6. CONCLUSIONES
 - Se pudo comprobar experimentalmente y teóricamente que el teorema de Thévenin permite reducir incluso el circuito más complicado a una sola fuente de voltaje y una sola resistencia.
 - Para concluir el voltaje equivalente de Thévenin (V_TH) es el voltaje de circuito abierto (sin carga) presente entre dos terminales de salida, mientras que la resistencia equivalente de Thévenin (R_TH) es la resistencia total que aparece entre dos  terminales .
