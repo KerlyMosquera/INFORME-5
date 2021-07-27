@@ -26,7 +26,7 @@
 ![Grafica 2 (2)](https://user-images.githubusercontent.com/84431598/127094885-3c4b435d-df03-4cfe-82bd-d7580b98738d.png)
 
 
- * Figura 2: Medición del voltaje y la corriente en el resistor R5 *
+  *Figura 2: Medición del voltaje y la corriente en el resistor R5*
 
 #### 3.2.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 1.
 
@@ -51,7 +51,7 @@
 
 ![Grafica 2 (2)](https://user-images.githubusercontent.com/84431598/127096982-3870e75e-dd77-4f50-93b6-5873071a6e04.png)
 
-*Figura 6: Circuito armado en Tinkercad*
+ *Figura 6: Circuito armado en Tinkercad*
 
 #### Tabla 1. Valores del Circuito Equivalente de Thévenin
 
