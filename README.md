@@ -42,12 +42,14 @@
 
 #### 5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 2.
 
+![ultima grafica (2)](https://user-images.githubusercontent.com/84431598/127096819-d7f94abe-8190-4e31-85de-16e919d3c2bd.png)
 
  *Figura 5: Medición de la corriente y el voltaje implementando el circuito equivalente de Thévenin y agregando R5*
 
 ## 4. RESPUESTAS A INTERROGANTES Y  CÁLCULO DEL ERROR
 ### 4.1 CIRCUITO
 
+![Uploading Grafica 2 (2).png…]()
 
 *Figura 6: Circuito armado en Tinkercad*
 
