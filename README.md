@@ -36,6 +36,7 @@
 
 #### 3.2.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 1.
 
+![grafica 8 (2)](https://user-images.githubusercontent.com/84431598/127095812-e0699951-6509-4b63-a69b-1cf93788ebb9.png)
 
  *Figura 4: Medición de la resistencia equivalente desde el circuito abierto anulando el efecto de las fuentes de alimentación y desconectando R5*
 
