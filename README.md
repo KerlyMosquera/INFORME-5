@@ -30,6 +30,7 @@
 
 #### 3.2.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 1.
 
+![grafica 3 (2)](https://user-images.githubusercontent.com/84431598/127095563-2a2b21e9-659c-4571-ac00-2d29851be054.png)
 
  *Figura 3: Medición del voltaje en el circuito abierto desconectando el resistor R5*
 
