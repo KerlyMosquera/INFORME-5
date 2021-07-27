@@ -63,7 +63,11 @@
 
 ![parte 4 (2)](https://user-images.githubusercontent.com/84431598/127090656-4a8f26a7-2a21-4199-a1e7-f0d603e3f50d.png)
 
+![circuito thevenin (2)](https://user-images.githubusercontent.com/84431598/127093407-fd6bf7ec-79cc-43aa-a11d-22a921c97446.png)
 
+![parte 8 (2)](https://user-images.githubusercontent.com/84431598/127093499-60e5ec97-b268-4c21-93aa-1bcbdc34398d.png)
+
+![parte 9 (2)](https://user-images.githubusercontent.com/84431598/127093599-0de7228b-349e-497a-b2e0-ff52b2117b7b.png)
 
 ### 4.3 CÁLCULO DEL ERROR
 
