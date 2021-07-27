@@ -49,7 +49,7 @@
 ## 4. RESPUESTAS A INTERROGANTES Y  CÁLCULO DEL ERROR
 ### 4.1 CIRCUITO
 
-![Uploading Grafica 2 (2).png…]()
+![Grafica 2 (2)](https://user-images.githubusercontent.com/84431598/127096982-3870e75e-dd77-4f50-93b6-5873071a6e04.png)
 
 *Figura 6: Circuito armado en Tinkercad*
 
@@ -93,8 +93,8 @@
 
 ## 5.VIDEO
 ## 6. CONCLUSIONES
-
--
+- Se pudo comprobar experimentalmente y teóricamente que el teorema de Thévenin permite reducir incluso el circuito más complicado a una sola fuente de voltaje y una sola resistencia.
+- Para concluir el voltaje equivalente de Thévenin (V_TH) es el voltaje de circuito abierto (sin carga) presente entre dos terminales de salida, mientras que la resistencia equivalente de Thévenin (R_TH) es la resistencia total que aparece entre dos  terminales .
 
 ## 7.BIBLIOGRAFÍA
 -  Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
